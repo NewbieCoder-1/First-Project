@@ -1,0 +1,36 @@
+.one {
+    font-size:35px;
+}
+
+.div1 {
+    background-color:darkblue;
+}
+
+.div2 {
+    padding-left:15px;
+}
+
+.box1 {
+    padding:10px
+}
+
+.p1 {
+    text-align:center;
+    font-size:25px;
+    color:aliceblue
+}
+
+.button1 {
+    text-decoration:none;
+    background-color:blueviolet;
+    border:none;
+    height:50px;
+    width:100px;
+    border-radius:3px;
+    
+}
+
+.link1 {
+    text-decoration:none;
+    color:aliceblue
+}
